@@ -8,4 +8,6 @@
 5. Update Components (model components)
 6. Update the Pipline
 7. Update the main.py
-8. Update the app.py 
+8. Update the app.py
+
+Link for the trained model `https://drive.google.com/drive/folders/1wXxDaArIm26C2CsGDdWVYdnXlnHpaWhS`
