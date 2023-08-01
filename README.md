@@ -10,4 +10,6 @@
 7. Update the main.py
 8. Update the app.py
 
+414447742635.dkr.ecr.eu-north-1.amazonaws.com/text-s
+
 Link for the trained model `https://drive.google.com/drive/folders/1wXxDaArIm26C2CsGDdWVYdnXlnHpaWhS?usp=sharing`
